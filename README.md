@@ -34,6 +34,17 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 - Admin monitors users, equipment, and platform activity
 
 ---
+## Video Link
+Link-( https://drive.google.com/drive/folders/1PMSneeiID7jFJXxF3WrE0TW-95SLM4Bi?usp=sharing )
+
+##  Screenshots
+Link-( https://drive.google.com/drive/folders/1fqhwgxeT5C5vA6B8o34pYVvMrmwV59C1?usp=sharing )
+
+##webiste Link
+Link- (https://drive.google.com/drive/folders/1lHB6bpLVTjKMuNwJ7Q1vvSmYyFAJeyte?usp=drive_link)
+
+---
+---
 
 ##  Key Features
 - Equipment listing and search
@@ -67,10 +78,7 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 
 ---
 
-##  Screenshots
-*(Add screenshots of the application UI here)*
 
----
 
 ##  System Design
 - Use Case Diagram
