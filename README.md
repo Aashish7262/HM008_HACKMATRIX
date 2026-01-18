@@ -80,11 +80,8 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 ---
 
 ##  Future Enhancements
-- GPS-based equipment tracking
 - Rating and review system
-- Insurance integration
 - Multi-language support
-- AI-based pricing and demand insights
 
 ---
 
