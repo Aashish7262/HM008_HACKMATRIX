@@ -1,9 +1,13 @@
 # ---------- BUILD STAGE ----------
+# ---------- BUILD STAGE ----------
 FROM eclipse-temurin:17-jdk AS builder
 
 WORKDIR /app
 
 COPY . .
+
+# ✅ FIX: give execute permission
+RUN chmod +x mvnw
 
 RUN ./mvnw clean package -DskipTests
 
