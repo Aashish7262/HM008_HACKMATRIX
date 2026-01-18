@@ -3,21 +3,21 @@
 
 ---
 
-## 📌 Overview
+##  Overview
 AgroRent is a digital platform for renting and sharing agricultural equipment.  
 It enables farmers to book machinery on demand while allowing equipment owners to
 list and monetize their resources through a secure, role-based system.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 Small and marginal farmers often cannot afford expensive agricultural equipment.
 At the same time, many equipment owners have machines that remain unused for long
 periods. This leads to inefficient resource utilization.
 
 ---
 
-## 💡 Solution
+##  Solution
 AgroRent bridges the gap between farmers and equipment owners by providing:
 - Easy equipment discovery
 - Online booking and payments
@@ -26,7 +26,7 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 - Farmers register and browse available equipment
 - Owners list equipment with pricing and availability
 - Farmers book equipment and make payments
@@ -35,7 +35,7 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 - Equipment listing and search
 - Online booking system
 - Secure payment integration
@@ -45,7 +45,7 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 - React.js
@@ -67,19 +67,19 @@ AgroRent bridges the gap between farmers and equipment owners by providing:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 *(Add screenshots of the application UI here)*
 
 ---
 
-## 📊 System Design
+##  System Design
 - Use Case Diagram
 - ER Diagram
 - Application Architecture
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 - GPS-based equipment tracking
 - Rating and review system
 - Insurance integration
